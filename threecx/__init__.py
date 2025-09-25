@@ -7,6 +7,6 @@ __all__ = [
     "get_3cx_endpoints",
 ]
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 

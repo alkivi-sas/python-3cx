@@ -4,11 +4,11 @@ build-backend = "hatchling.build"
 
 [project]
 name = "threecx"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python client for 3CX HTTP APIs with Alkivi config integration"
 readme = "README.md"
 requires-python = ">=3.9"
-license = {text = "MIT"}
+license = {text = "LGPL-3.0-or-later"}
 authors = [
   { name = "Alkivi" }
 ]
@@ -16,7 +16,7 @@ keywords = ["3cx", "voip", "cti", "api", "client"]
 classifiers = [
   "Programming Language :: Python :: 3",
   "Programming Language :: Python :: 3 :: Only",
-  "License :: OSI Approved :: MIT License",
+  "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
   "Operating System :: OS Independent",
   "Intended Audience :: Developers",
   "Topic :: Software Development :: Libraries :: Python Modules",
